@@ -1,6 +1,9 @@
 # botapizza
 Implementação de uma Pizzaria com IBM Watson
 
+File : template_conversation.json file to configuration conversation bot
 
-#Data Log
-07/03/2017 - Desenvolvimento de plataforma IBM Watson, Página do Facebook e Facebook App.
+
+#Data log
+07-March-2017 - Building conversation at IBM Watson, Facebook page and facebook app for interaction to page BotapizzaLHC.
+
